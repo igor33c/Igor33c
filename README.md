@@ -1,4 +1,4 @@
-
+Oi eu sou Igor, sou desenvolvedor front-end e estudo atualmente ReactJs e Javascript
 
 <div align="center">
   <a href="https://github.com/igor33c">
